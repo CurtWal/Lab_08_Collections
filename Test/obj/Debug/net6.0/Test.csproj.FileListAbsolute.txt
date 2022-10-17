@@ -1,0 +1,6 @@
+/home/curtrick/code_401/Labs/Lab_08_Collections/Test/obj/Debug/net6.0/Test.csproj.AssemblyReference.cache
+/home/curtrick/code_401/Labs/Lab_08_Collections/Test/obj/Debug/net6.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/home/curtrick/code_401/Labs/Lab_08_Collections/Test/obj/Debug/net6.0/Test.AssemblyInfoInputs.cache
+/home/curtrick/code_401/Labs/Lab_08_Collections/Test/obj/Debug/net6.0/Test.AssemblyInfo.cs
+/home/curtrick/code_401/Labs/Lab_08_Collections/Test/obj/Debug/net6.0/Test.csproj.CoreCompileInputs.cache
+/home/curtrick/code_401/Labs/Lab_08_Collections/Test/bin/Debug/net6.0/CoverletSourceRootsMapping
